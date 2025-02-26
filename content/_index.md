@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        HAILONG Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **HAILONG Lab** has been a research group on **H**igh-performance computing, **AI**, **L**arge-application **O**ptimization **N** **G**eneration.
   
   - block: collection
     content:
